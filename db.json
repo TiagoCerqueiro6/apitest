@@ -1,0 +1,6 @@
+{
+  "users": [
+    {"user_id":1,"name":"Andreia","email":"andreia@teste.pt","password":"1234","role":"admin"},
+{"user_id":2,"name":"Joao","email":"joao@teste.pt","password":"1234","role":"admin"}
+  ]
+}
